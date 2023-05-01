@@ -1,5 +1,5 @@
 # Transforming
-+ In this notebook, we will explore how to use Large Language Models for text transformation tasks such as language translation, spelling and grammar checking, tone adjustment, and format conversion.
++ In this lesson, we will explore how to use Large Language Models for text transformation tasks such as language translation, spelling and grammar checking, tone adjustment, and format conversion.
 
 ## Setup
 ```py

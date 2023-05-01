@@ -1,5 +1,5 @@
 # The Chat Format
-+ In this notebook, you will explore how you can utilize the chat format to have extended conversations with chatbots personalized or specialized for specific tasks or behaviors.
++ In this lesson, you will explore how you can utilize the chat format to have extended conversations with chatbots personalized or specialized for specific tasks or behaviors.
 
 ## Setup
 ```py
